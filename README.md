@@ -1,8 +1,5 @@
 # Explainable RAG using Ephemeral Local Knowledge Graphs
 
-[![Python 100%](https://img.shields.io/badge/Python-100%25-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Research](https://img.shields.io/badge/Status-Research-orange.svg)]()
 
 > Transform opaque RAG into auditable AI with query-specific knowledge graphs
 
