@@ -8,7 +8,7 @@
 
 ## 🎯 Executive Summary
 
-We transform opaque RAG into **auditable AI** by constructing ephemeral Local Knowledge Graphs (LKGs) from retrieved contexts. Each query generates a temporary, minimal graph (15-60 nodes) built exclusively from retrieved text—no external knowledge bases required.
+We transform opaque RAG into **auditable AI** by constructing ephemeral Local Knowledge Graphs (LKGs) from retrieved contexts. Each query generates a temporary, minimal graph (15-60 nodes) built exclusively from retrieved text - no external knowledge bases required.
 
 **Key Achievement:** 92% faithfulness improvement over baseline RAG with only 2.8× latency overhead.
 
